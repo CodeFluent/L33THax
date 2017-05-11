@@ -1,0 +1,396 @@
+Pid      Process              Block      Variable                       Value
+-------- -------------------- ---------- ------------------------------ -----
+     500 smss.exe             0x00100000 CommonProgramFiles             
+     500 smss.exe             0x00100000 Path                           C:\WINDOWS\System32
+     500 smss.exe             0x00100000 ProgramFiles                   
+     500 smss.exe             0x00100000 SystemDrive                    C:
+     500 smss.exe             0x00100000 SystemRoot                     C:\WINDOWS
+     564 csrss.exe            0x00100000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     564 csrss.exe            0x00100000 FP_NO_HOST_CHECK               NO
+     564 csrss.exe            0x00100000 NUMBER_OF_PROCESSORS           1
+     564 csrss.exe            0x00100000 OS                             Windows_NT
+     564 csrss.exe            0x00100000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     564 csrss.exe            0x00100000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     564 csrss.exe            0x00100000 PROCESSOR_ARCHITECTURE         x86
+     564 csrss.exe            0x00100000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+     564 csrss.exe            0x00100000 PROCESSOR_LEVEL                6
+     564 csrss.exe            0x00100000 PROCESSOR_REVISION             4501
+     564 csrss.exe            0x00100000 SystemDrive                    C:
+     564 csrss.exe            0x00100000 SystemRoot                     C:\WINDOWS
+     564 csrss.exe            0x00100000 TEMP                           C:\WINDOWS\TEMP
+     564 csrss.exe            0x00100000 TMP                            C:\WINDOWS\TEMP
+     564 csrss.exe            0x00100000 windir                         C:\WINDOWS
+     588 winlogon.exe         0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     588 winlogon.exe         0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+     588 winlogon.exe         0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     588 winlogon.exe         0x00010000 COMPUTERNAME                   XPBASELINE
+     588 winlogon.exe         0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     588 winlogon.exe         0x00010000 FP_NO_HOST_CHECK               NO
+     588 winlogon.exe         0x00010000 LOGONSERVER                    \\XPBASELINE
+     588 winlogon.exe         0x00010000 NUMBER_OF_PROCESSORS           1
+     588 winlogon.exe         0x00010000 OS                             Windows_NT
+     588 winlogon.exe         0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     588 winlogon.exe         0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     588 winlogon.exe         0x00010000 PROCESSOR_ARCHITECTURE         x86
+     588 winlogon.exe         0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+     588 winlogon.exe         0x00010000 PROCESSOR_LEVEL                6
+     588 winlogon.exe         0x00010000 PROCESSOR_REVISION             4501
+     588 winlogon.exe         0x00010000 ProgramFiles                   C:\Program Files
+     588 winlogon.exe         0x00010000 SystemDrive                    C:
+     588 winlogon.exe         0x00010000 SystemRoot                     C:\WINDOWS
+     588 winlogon.exe         0x00010000 TEMP                           C:\WINDOWS\TEMP
+     588 winlogon.exe         0x00010000 TMP                            C:\WINDOWS\TEMP
+     588 winlogon.exe         0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+     588 winlogon.exe         0x00010000 windir                         C:\WINDOWS
+     632 services.exe         0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     632 services.exe         0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     632 services.exe         0x00010000 COMPUTERNAME                   XPBASELINE
+     632 services.exe         0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     632 services.exe         0x00010000 FP_NO_HOST_CHECK               NO
+     632 services.exe         0x00010000 NUMBER_OF_PROCESSORS           1
+     632 services.exe         0x00010000 OS                             Windows_NT
+     632 services.exe         0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     632 services.exe         0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     632 services.exe         0x00010000 PROCESSOR_ARCHITECTURE         x86
+     632 services.exe         0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+     632 services.exe         0x00010000 PROCESSOR_LEVEL                6
+     632 services.exe         0x00010000 PROCESSOR_REVISION             4501
+     632 services.exe         0x00010000 ProgramFiles                   C:\Program Files
+     632 services.exe         0x00010000 SystemDrive                    C:
+     632 services.exe         0x00010000 SystemRoot                     C:\WINDOWS
+     632 services.exe         0x00010000 TEMP                           C:\WINDOWS\TEMP
+     632 services.exe         0x00010000 TMP                            C:\WINDOWS\TEMP
+     632 services.exe         0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+     632 services.exe         0x00010000 windir                         C:\WINDOWS
+     644 lsass.exe            0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     644 lsass.exe            0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     644 lsass.exe            0x00010000 COMPUTERNAME                   XPBASELINE
+     644 lsass.exe            0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     644 lsass.exe            0x00010000 FP_NO_HOST_CHECK               NO
+     644 lsass.exe            0x00010000 NUMBER_OF_PROCESSORS           1
+     644 lsass.exe            0x00010000 OS                             Windows_NT
+     644 lsass.exe            0x00010000 Path                           C:\WINDOWS\System32
+     644 lsass.exe            0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     644 lsass.exe            0x00010000 PROCESSOR_ARCHITECTURE         x86
+     644 lsass.exe            0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+     644 lsass.exe            0x00010000 PROCESSOR_LEVEL                6
+     644 lsass.exe            0x00010000 PROCESSOR_REVISION             4501
+     644 lsass.exe            0x00010000 ProgramFiles                   C:\Program Files
+     644 lsass.exe            0x00010000 SystemDrive                    C:
+     644 lsass.exe            0x00010000 SystemRoot                     C:\WINDOWS
+     644 lsass.exe            0x00010000 TEMP                           C:\WINDOWS\TEMP
+     644 lsass.exe            0x00010000 TMP                            C:\WINDOWS\TEMP
+     644 lsass.exe            0x00010000 USERPROFILE                    C:\WINDOWS\system32\config\systemprofile
+     644 lsass.exe            0x00010000 windir                         C:\WINDOWS
+     836 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     836 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     836 svchost.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+     836 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     836 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+     836 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+     836 svchost.exe          0x00010000 OS                             Windows_NT
+     836 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     836 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     836 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+     836 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+     836 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+     836 svchost.exe          0x00010000 PROCESSOR_REVISION             4501
+     836 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+     836 svchost.exe          0x00010000 SystemDrive                    C:
+     836 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+     836 svchost.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+     836 svchost.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+     836 svchost.exe          0x00010000 USERPROFILE                    C:\WINDOWS\system32\config\systemprofile
+     836 svchost.exe          0x00010000 windir                         C:\WINDOWS
+     920 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     920 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     920 svchost.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+     920 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     920 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+     920 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+     920 svchost.exe          0x00010000 OS                             Windows_NT
+     920 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     920 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     920 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+     920 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+     920 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+     920 svchost.exe          0x00010000 PROCESSOR_REVISION             4501
+     920 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+     920 svchost.exe          0x00010000 SystemDrive                    C:
+     920 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+     920 svchost.exe          0x00010000 TEMP                           C:\DOCUME~1\NETWOR~1\LOCALS~1\Temp
+     920 svchost.exe          0x00010000 TMP                            C:\DOCUME~1\NETWOR~1\LOCALS~1\Temp
+     920 svchost.exe          0x00010000 USERDOMAIN                     NT AUTHORITY
+     920 svchost.exe          0x00010000 USERNAME                       NETWORK SERVICE
+     920 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\NetworkService
+     920 svchost.exe          0x00010000 windir                         C:\WINDOWS
+    1012 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1012 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1012 svchost.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+    1012 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1012 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1012 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1012 svchost.exe          0x00010000 OS                             Windows_NT
+    1012 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1012 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1012 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1012 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1012 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+    1012 svchost.exe          0x00010000 PROCESSOR_REVISION             4501
+    1012 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1012 svchost.exe          0x00010000 SystemDrive                    C:
+    1012 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1012 svchost.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+    1012 svchost.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+    1012 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\NetworkService
+    1012 svchost.exe          0x00010000 windir                         C:\WINDOWS
+    1120 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1120 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1120 svchost.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+    1120 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1120 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1120 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1120 svchost.exe          0x00010000 OS                             Windows_NT
+    1120 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1120 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1120 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1120 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1120 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+    1120 svchost.exe          0x00010000 PROCESSOR_REVISION             4501
+    1120 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1120 svchost.exe          0x00010000 SystemDrive                    C:
+    1120 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1120 svchost.exe          0x00010000 TEMP                           C:\DOCUME~1\NETWOR~1\LOCALS~1\Temp
+    1120 svchost.exe          0x00010000 TMP                            C:\DOCUME~1\NETWOR~1\LOCALS~1\Temp
+    1120 svchost.exe          0x00010000 USERDOMAIN                     NT AUTHORITY
+    1120 svchost.exe          0x00010000 USERNAME                       NETWORK SERVICE
+    1120 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\NetworkService
+    1120 svchost.exe          0x00010000 windir                         C:\WINDOWS
+    1288 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1288 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1288 svchost.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+    1288 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1288 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1288 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1288 svchost.exe          0x00010000 OS                             Windows_NT
+    1288 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1288 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1288 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1288 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1288 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+    1288 svchost.exe          0x00010000 PROCESSOR_REVISION             4501
+    1288 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1288 svchost.exe          0x00010000 SystemDrive                    C:
+    1288 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1288 svchost.exe          0x00010000 TEMP                           C:\DOCUME~1\LOCALS~1\LOCALS~1\Temp
+    1288 svchost.exe          0x00010000 TMP                            C:\DOCUME~1\LOCALS~1\LOCALS~1\Temp
+    1288 svchost.exe          0x00010000 USERDOMAIN                     NT AUTHORITY
+    1288 svchost.exe          0x00010000 USERNAME                       LOCAL SERVICE
+    1288 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    1288 svchost.exe          0x00010000 windir                         C:\WINDOWS
+    1456 spoolsv.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1456 spoolsv.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1456 spoolsv.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+    1456 spoolsv.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1456 spoolsv.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1456 spoolsv.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1456 spoolsv.exe          0x00010000 OS                             Windows_NT
+    1456 spoolsv.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1456 spoolsv.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1456 spoolsv.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1456 spoolsv.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1456 spoolsv.exe          0x00010000 PROCESSOR_LEVEL                6
+    1456 spoolsv.exe          0x00010000 PROCESSOR_REVISION             4501
+    1456 spoolsv.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1456 spoolsv.exe          0x00010000 SystemDrive                    C:
+    1456 spoolsv.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1456 spoolsv.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+    1456 spoolsv.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+    1456 spoolsv.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    1456 spoolsv.exe          0x00010000 windir                         C:\WINDOWS
+    1980 alg.exe              0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1980 alg.exe              0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1980 alg.exe              0x00010000 COMPUTERNAME                   XPBASELINE
+    1980 alg.exe              0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1980 alg.exe              0x00010000 FP_NO_HOST_CHECK               NO
+    1980 alg.exe              0x00010000 NUMBER_OF_PROCESSORS           1
+    1980 alg.exe              0x00010000 OS                             Windows_NT
+    1980 alg.exe              0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1980 alg.exe              0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1980 alg.exe              0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1980 alg.exe              0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1980 alg.exe              0x00010000 PROCESSOR_LEVEL                6
+    1980 alg.exe              0x00010000 PROCESSOR_REVISION             4501
+    1980 alg.exe              0x00010000 ProgramFiles                   C:\Program Files
+    1980 alg.exe              0x00010000 SystemDrive                    C:
+    1980 alg.exe              0x00010000 SystemRoot                     C:\WINDOWS
+    1980 alg.exe              0x00010000 TEMP                           C:\DOCUME~1\LOCALS~1\LOCALS~1\Temp
+    1980 alg.exe              0x00010000 TMP                            C:\DOCUME~1\LOCALS~1\LOCALS~1\Temp
+    1980 alg.exe              0x00010000 USERDOMAIN                     NT AUTHORITY
+    1980 alg.exe              0x00010000 USERNAME                       LOCAL SERVICE
+    1980 alg.exe              0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    1980 alg.exe              0x00010000 windir                         C:\WINDOWS
+    1048 explorer.exe         0x00b30000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1048 explorer.exe         0x00b30000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1048 explorer.exe         0x00b30000 CLIENTNAME                     Console
+    1048 explorer.exe         0x00b30000 CommonProgramFiles             C:\Program Files\Common Files
+    1048 explorer.exe         0x00b30000 COMPUTERNAME                   XPBASELINE
+    1048 explorer.exe         0x00b30000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1048 explorer.exe         0x00b30000 FP_NO_HOST_CHECK               NO
+    1048 explorer.exe         0x00b30000 HOMEDRIVE                      C:
+    1048 explorer.exe         0x00b30000 HOMEPATH                       \Documents and Settings\Administrator
+    1048 explorer.exe         0x00b30000 LOGONSERVER                    \\XPBASELINE
+    1048 explorer.exe         0x00b30000 NUMBER_OF_PROCESSORS           1
+    1048 explorer.exe         0x00b30000 OS                             Windows_NT
+    1048 explorer.exe         0x00b30000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1048 explorer.exe         0x00b30000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1048 explorer.exe         0x00b30000 PROCESSOR_ARCHITECTURE         x86
+    1048 explorer.exe         0x00b30000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1048 explorer.exe         0x00b30000 PROCESSOR_LEVEL                6
+    1048 explorer.exe         0x00b30000 PROCESSOR_REVISION             4501
+    1048 explorer.exe         0x00b30000 ProgramFiles                   C:\Program Files
+    1048 explorer.exe         0x00b30000 SESSIONNAME                    Console
+    1048 explorer.exe         0x00b30000 SystemDrive                    C:
+    1048 explorer.exe         0x00b30000 SystemRoot                     C:\WINDOWS
+    1048 explorer.exe         0x00b30000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1048 explorer.exe         0x00b30000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1048 explorer.exe         0x00b30000 Trinity                        Key: ICrackedtheIRSd-base
+    1048 explorer.exe         0x00b30000 USERDOMAIN                     XPBASELINE
+    1048 explorer.exe         0x00b30000 USERNAME                       Administrator
+    1048 explorer.exe         0x00b30000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1048 explorer.exe         0x00b30000 windir                         C:\WINDOWS
+    1144 wscntfy.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1144 wscntfy.exe          0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1144 wscntfy.exe          0x00010000 CLIENTNAME                     Console
+    1144 wscntfy.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1144 wscntfy.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+    1144 wscntfy.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1144 wscntfy.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1144 wscntfy.exe          0x00010000 HOMEDRIVE                      C:
+    1144 wscntfy.exe          0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+    1144 wscntfy.exe          0x00010000 LOGONSERVER                    \\XPBASELINE
+    1144 wscntfy.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1144 wscntfy.exe          0x00010000 OS                             Windows_NT
+    1144 wscntfy.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1144 wscntfy.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1144 wscntfy.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1144 wscntfy.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1144 wscntfy.exe          0x00010000 PROCESSOR_LEVEL                6
+    1144 wscntfy.exe          0x00010000 PROCESSOR_REVISION             4501
+    1144 wscntfy.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1144 wscntfy.exe          0x00010000 SESSIONNAME                    Console
+    1144 wscntfy.exe          0x00010000 SystemDrive                    C:
+    1144 wscntfy.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1144 wscntfy.exe          0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1144 wscntfy.exe          0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1144 wscntfy.exe          0x00010000 USERDOMAIN                     XPBASELINE
+    1144 wscntfy.exe          0x00010000 USERNAME                       Administrator
+    1144 wscntfy.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1144 wscntfy.exe          0x00010000 windir                         C:\WINDOWS
+    1488 notepad.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1488 notepad.exe          0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1488 notepad.exe          0x00010000 CLIENTNAME                     Console
+    1488 notepad.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1488 notepad.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+    1488 notepad.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1488 notepad.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1488 notepad.exe          0x00010000 HOMEDRIVE                      C:
+    1488 notepad.exe          0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+    1488 notepad.exe          0x00010000 LOGONSERVER                    \\XPBASELINE
+    1488 notepad.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1488 notepad.exe          0x00010000 OS                             Windows_NT
+    1488 notepad.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1488 notepad.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1488 notepad.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1488 notepad.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1488 notepad.exe          0x00010000 PROCESSOR_LEVEL                6
+    1488 notepad.exe          0x00010000 PROCESSOR_REVISION             4501
+    1488 notepad.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1488 notepad.exe          0x00010000 SESSIONNAME                    Console
+    1488 notepad.exe          0x00010000 SystemDrive                    C:
+    1488 notepad.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1488 notepad.exe          0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1488 notepad.exe          0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1488 notepad.exe          0x00010000 USERDOMAIN                     XPBASELINE
+    1488 notepad.exe          0x00010000 USERNAME                       Administrator
+    1488 notepad.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1488 notepad.exe          0x00010000 windir                         C:\WINDOWS
+    1668 mspaint.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1668 mspaint.exe          0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1668 mspaint.exe          0x00010000 CLIENTNAME                     Console
+    1668 mspaint.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1668 mspaint.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+    1668 mspaint.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1668 mspaint.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1668 mspaint.exe          0x00010000 HOMEDRIVE                      C:
+    1668 mspaint.exe          0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+    1668 mspaint.exe          0x00010000 LOGONSERVER                    \\XPBASELINE
+    1668 mspaint.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1668 mspaint.exe          0x00010000 OS                             Windows_NT
+    1668 mspaint.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1668 mspaint.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1668 mspaint.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1668 mspaint.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1668 mspaint.exe          0x00010000 PROCESSOR_LEVEL                6
+    1668 mspaint.exe          0x00010000 PROCESSOR_REVISION             4501
+    1668 mspaint.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1668 mspaint.exe          0x00010000 SESSIONNAME                    Console
+    1668 mspaint.exe          0x00010000 SystemDrive                    C:
+    1668 mspaint.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1668 mspaint.exe          0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1668 mspaint.exe          0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1668 mspaint.exe          0x00010000 Trinity                        ICrackedtheIRSd-base
+    1668 mspaint.exe          0x00010000 USERDOMAIN                     XPBASELINE
+    1668 mspaint.exe          0x00010000 USERNAME                       Administrator
+    1668 mspaint.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1668 mspaint.exe          0x00010000 windir                         C:\WINDOWS
+    1604 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1604 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1604 svchost.exe          0x00010000 COMPUTERNAME                   XPBASELINE
+    1604 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1604 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1604 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1604 svchost.exe          0x00010000 OS                             Windows_NT
+    1604 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1604 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1604 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1604 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1604 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+    1604 svchost.exe          0x00010000 PROCESSOR_REVISION             4501
+    1604 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1604 svchost.exe          0x00010000 SystemDrive                    C:
+    1604 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1604 svchost.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+    1604 svchost.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+    1604 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    1604 svchost.exe          0x00010000 windir                         C:\WINDOWS
+    1916 cmd.exe              0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1916 cmd.exe              0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1916 cmd.exe              0x00010000 CLIENTNAME                     Console
+    1916 cmd.exe              0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1916 cmd.exe              0x00010000 COMPUTERNAME                   XPBASELINE
+    1916 cmd.exe              0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1916 cmd.exe              0x00010000 FP_NO_HOST_CHECK               NO
+    1916 cmd.exe              0x00010000 HOMEDRIVE                      C:
+    1916 cmd.exe              0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+    1916 cmd.exe              0x00010000 LOGONSERVER                    \\XPBASELINE
+    1916 cmd.exe              0x00010000 NUMBER_OF_PROCESSORS           1
+    1916 cmd.exe              0x00010000 OS                             Windows_NT
+    1916 cmd.exe              0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1916 cmd.exe              0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1916 cmd.exe              0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1916 cmd.exe              0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 69 Stepping 1, GenuineIntel
+    1916 cmd.exe              0x00010000 PROCESSOR_LEVEL                6
+    1916 cmd.exe              0x00010000 PROCESSOR_REVISION             4501
+    1916 cmd.exe              0x00010000 ProgramFiles                   C:\Program Files
+    1916 cmd.exe              0x00010000 PROMPT                         $P$G
+    1916 cmd.exe              0x00010000 SESSIONNAME                    Console
+    1916 cmd.exe              0x00010000 SystemDrive                    C:
+    1916 cmd.exe              0x00010000 SystemRoot                     C:\WINDOWS
+    1916 cmd.exe              0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1916 cmd.exe              0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1916 cmd.exe              0x00010000 Trinity                        ICrackedtheIRSd-base
+    1916 cmd.exe              0x00010000 USERDOMAIN                     XPBASELINE
+    1916 cmd.exe              0x00010000 USERNAME                       Administrator
+    1916 cmd.exe              0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1916 cmd.exe              0x00010000 windir                         C:\WINDOWS
